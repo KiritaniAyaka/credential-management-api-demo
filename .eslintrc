@@ -1,0 +1,7 @@
+{
+	"extends": "@kiritaniayaka",
+	"rules": {
+		"no-console": "off",
+		"no-alert": "off"
+	}
+}
